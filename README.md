@@ -1,4 +1,4 @@
-Hi 👋 My name is Maildo Junior
+Hi 👋 I'm Maildo Junior
 ==============================
 
 Data Scientist and FullStack Developer
